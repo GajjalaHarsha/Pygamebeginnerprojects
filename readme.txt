@@ -12,6 +12,6 @@ I have designed 3 projects in pycharm
 2. Traffic signal- i have created two buttons 1.go    -> when we click it, it switches from yellow to greeen light
 					      2. stop -> when we click it, it switches from yellow to red light
 
-3. TicTacToe - I have implemented this by displaying the person name as winner of Tic Tac Toe. I have created other one, by using person starting letter in game 		       instead of '*' OR 'O'
+3. TicTacToe - I have implemented this by displaying the person name as winner of Tic Tac Toe. I have created other one, by using person starting letter in game instead of '*' OR 'O'
 
 4.Pong game - Instead of using 2 users i have used only one paddle and ball 
